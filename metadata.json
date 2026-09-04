@@ -1,0 +1,6 @@
+{
+  "name": "Kopitiam-to-Calorie Tracker",
+  "description": "Malaysian food calorie estimator using Gemini Vision API with localized workout burn-off recommendations and daily meal tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
